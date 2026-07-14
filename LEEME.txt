@@ -1,0 +1,66 @@
+CHECKLIST DE IMÁGENES — copiá tus .webp a la carpeta images/ con estos nombres EXACTOS:
+
+⚠️ FORMATO DE NUMERACIÓN: del 1 al 9 va con DOS dígitos (01, 02... 09).
+   Del 10 en adelante va con TRES dígitos (010, 011, 012... 073). Este es
+   el formato que generó tu herramienta de renombrado y el código ya está
+   ajustado para que coincida exactamente.
+
+LOGO (1)
+□ logo.webp
+
+CARRUSEL HERO (8)
+□ proyecto-01.webp
+□ proyecto-02.webp
+□ proyecto-03.webp
+□ proyecto-04.webp
+□ proyecto-05.webp
+□ proyecto-06.webp
+□ proyecto-07.webp
+□ proyecto-08.webp
+
+PORTADAS DEL GRID DE PROYECTOS (12) — una por sección
+□ foto-01.webp   (Stiler)
+□ foto-02.webp   (Compartí tu compra)
+□ foto-03.webp   (Bodegas)
+□ foto-04.webp   (La Casa del Hornero)
+□ foto-05.webp   (Valymar)
+□ foto-06.webp   (Paganza)
+□ foto-07.webp   (SBC Performance)
+□ foto-08.webp   (Italcred)
+□ foto-09.webp   (Diseño Editorial)
+□ foto-10.webp   (Afiches)
+□ foto-11.webp   (Redes Sociales)
+□ foto-12.webp   (Ilustraciones)
+
+GALERÍAS DE DETALLE (73 imágenes en total, numeración correlativa única):
+  Stiler:               proyecto-img-01.webp a proyecto-img-07.webp   (7 imgs)
+  Compartí tu compra:    proyecto-img-08.webp a proyecto-img-10.webp   (3 imgs)
+  Bodegas:               proyecto-img-11.webp a proyecto-img-15.webp   (5 imgs)
+  La Casa del Hornero:   proyecto-img-16.webp a proyecto-img-20.webp   (5 imgs)
+  Valymar:               proyecto-img-21.webp a proyecto-img-25.webp   (5 imgs)
+  Paganza:               proyecto-img-26.webp a proyecto-img-29.webp   (4 imgs)
+  SBC Performance:       proyecto-img-30.webp a proyecto-img-35.webp   (6 imgs)
+  Italcred:              proyecto-img-36.webp a proyecto-img-41.webp   (6 imgs)
+  Diseño Editorial:      proyecto-img-42.webp a proyecto-img-49.webp   (8 imgs)
+  Afiches:               proyecto-img-50.webp a proyecto-img-61.webp   (12 imgs)
+  Redes Sociales:        proyecto-img-62.webp a proyecto-img-65.webp   (4 imgs)
+  Ilustraciones:         proyecto-img-66.webp a proyecto-img-73.webp   (8 imgs)
+
+  ⚠️ El orden dentro de cada rango determina el orden de aparición en la galería
+  al abrir ese proyecto. Por ejemplo, para Bodegas: proyecto-img-11.webp será
+  la primera imagen de su galería, proyecto-img-15.webp la última.
+
+LOGOS DE CLIENTES (32)
+□ cliente-01.webp ... cliente-32.webp (correlativo, con cero adelante del 01 al 09)
+
+---
+
+RESUMEN: 1 logo + 8 carrusel + 12 portadas + 73 galería + 32 clientes = 126 archivos en total.
+
+CÓMO SUBIR A NETLIFY:
+1. Copiá todas tus imágenes .webp dentro de la carpeta "images" (la que está al lado de este archivo).
+2. Entrá a netlify.com → "Add new site" → "Deploy manually".
+3. Arrastrá la carpeta "mi-portfolio" completa (la que contiene index.html + images/).
+4. Listo, te da una URL tipo nombre-random.netlify.app funcionando al instante.
+
+Para dominio propio: Domain settings → Add a domain, y seguís las instrucciones DNS que te da Netlify.
